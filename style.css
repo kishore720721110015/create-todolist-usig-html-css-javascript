@@ -1,0 +1,28 @@
+.section{
+    max-width: 350px;
+    margin: 30px auto;
+    background-color: #e9c8e3;
+    padding:40px;
+    border-radius: 8px;
+    margin-top: 150px;
+}
+body{
+    background-color: #965281;
+
+
+}
+input{
+    width: 250px;
+    height: 30px;
+    border-radius: 8px;
+}
+button{
+    width: 70px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.b1{
+    background-color: #201E43;
+    color: white;
+}
